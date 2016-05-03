@@ -1,11 +1,19 @@
-#Idea files
-.idea
+*.class
 
-#out dirercotry
-out/
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-#iml files
-.iml
+# Package Files #
+*.jar
+*.war
+*.ear
 
-#external lib
-.jar
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
