@@ -6,6 +6,7 @@ public class Demo {
         System.out.println("Hello");
         System.out.println();
         System.out.println("Boom you dead");
+
         System.out.println("Never again");
     }
 }
