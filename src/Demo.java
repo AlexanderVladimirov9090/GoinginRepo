@@ -7,5 +7,11 @@ public class Demo {
         System.out.println();
         System.out.println("Boom you dead");
         System.out.println("Never again");
+        System.out.println("Oks");
+        System.out.println("Hello");
+        System.out.println();
+        System.out.println("Boom you dead");
+        System.out.println("Never again");
+        System.out.println("Oks");
     }
 }
